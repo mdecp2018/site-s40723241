@@ -2,7 +2,7 @@
   position: relative;
 }
 header{
-  background: #ccc;
+  background-image: url("https://imgur.com/a/wXQBwHW");
   padding: 20px;
 }
 confmenu
@@ -201,6 +201,8 @@ background-color: white;
 width: 195px;
 }
 body {
+	 background-image: url("https://channel-korea.com/wp-content/uploads/2018/01/allk-1.jpg");
   margin-bottom: 120px;
+  background-size:100%
 }
 
